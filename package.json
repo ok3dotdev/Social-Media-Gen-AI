@@ -1,0 +1,32 @@
+{
+  "name": "social-media-gen-ai",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "worker": "tsx jobs/workers/articleProcessor.worker.ts",
+    "db:push": "prisma db push"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.8.2",
+    "bullmq": "^5.52.2",
+    "ioredis": "^5.4.1",
+    "next": "15.3.2",
+    "openai": "^4.104.0",
+    "prisma": "^6.8.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "@types/react": "^19.1.5",
+    "@types/react-dom": "^19.1.5",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3",
+    "tailwindcss": "^4.1.7",
+    "@tailwindcss/postcss": "^4.1.7"
+  }
+}
