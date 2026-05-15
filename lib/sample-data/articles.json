@@ -1,0 +1,29 @@
+[
+  {
+    "id": "art-001",
+    "title": "JWST Detects Water Vapor in Super-Earth Atmosphere",
+    "summary": "Astronomers used Webb spectroscopy to identify water vapor signatures in the atmosphere of exoplanet K2-18 c.",
+    "body": "A multinational astronomy team reported high-confidence detection of water vapor bands while observing transits of K2-18 c. The analysis combined near-infrared spectra over multiple observing windows and corrected for stellar activity. Researchers say the finding improves confidence that rocky super-Earth atmospheres can be chemically profiled at long distances. The team cautions that water vapor does not indicate habitability by itself and additional compounds must be measured.",
+    "category": "Astronomy",
+    "featuredImage": "/images/jwst-exoplanet.jpg",
+    "publishedAt": "2026-05-09T12:00:00Z"
+  },
+  {
+    "id": "art-002",
+    "title": "CRISPR Therapy Restores Vision in Early Human Trial",
+    "summary": "A phase 1/2 trial reported measurable visual improvement in participants with inherited retinal disease.",
+    "body": "Clinical researchers announced interim data from a CRISPR-based therapy designed to edit a retinal gene linked to progressive blindness. Participants received localized treatment and were evaluated using visual acuity, low-light navigation, and retinal imaging. Investigators observed functional gains in several participants with no serious treatment-related adverse events reported so far. The team emphasized that larger studies are required to confirm long-term efficacy and safety.",
+    "category": "Biotech",
+    "featuredImage": "/images/crispr-retina.jpg",
+    "publishedAt": "2026-05-11T08:30:00Z"
+  },
+  {
+    "id": "art-003",
+    "title": "New Solid-State Battery Prototype Doubles Fast-Charge Cycles",
+    "summary": "Materials scientists demonstrated a sulfide-based electrolyte design that sustained rapid charging across 1,500 cycles.",
+    "body": "Engineers at a university-industry lab unveiled a prototype solid-state battery cell with improved interface stability during high-rate charging. By tuning the electrolyte composition and stack pressure, the team reduced dendrite growth and thermal hotspots. The prototype retained over 82% capacity after 1,500 rapid cycles in controlled testing. Researchers say scale-up and manufacturing compatibility remain major next steps before commercial deployment.",
+    "category": "Energy",
+    "featuredImage": "/images/solid-state-battery.jpg",
+    "publishedAt": "2026-05-13T16:45:00Z"
+  }
+]
